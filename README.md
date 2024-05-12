@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on my blog and family blog<br>🌱 I’m currently learning Hugo and Zola<br>⚡ Fun fact
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sebviolet&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
